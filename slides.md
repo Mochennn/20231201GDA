@@ -58,7 +58,7 @@ layout: quote
 layout: two-cols-header
 ---
 
-## Solution
+## More Detailed Information
 
 ::left::
 
@@ -91,7 +91,7 @@ layout: quote
 
 
 ---
-layout:quote
+layout: quote
 ---
 
 # Part3. Unique Value Proposition
@@ -109,5 +109,6 @@ layout:quote
 - Distribution Cost
 
 --- 
-
+layout: center
+---
 # Thanks for Listening.
